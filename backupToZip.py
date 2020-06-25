@@ -46,3 +46,4 @@ def backupToZip(folder):
 
 backupToZip('/home/meme/python2/delicious')
 
+#my extraction functionality
